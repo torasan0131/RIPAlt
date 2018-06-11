@@ -1,0 +1,15 @@
+name: RIPalt
+version: 1
+authors: [tora0409]
+main: net.disaapse.ripalt.bukkit.BukkitRIPalt
+depend: [ProtocolLib]
+commands:
+  RIPalt:
+    description: RIPalt Description
+    usage: /RIPalt
+    aliases: ripalt
+permissions:
+  ripalt.bypass:
+    description: Permission to bypass Alt Account protection
+    default: op
+  

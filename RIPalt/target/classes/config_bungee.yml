@@ -1,0 +1,18 @@
+# ##############################################################
+#                    RIPalt         (By tora0409)              #
+# ##############################################################
+#          
+# debug : Debug mode display messages on console
+#           
+# commands : Executes commands by BungeeCord console
+# --------------------------------------------------------------
+# | Replace variable   |  Example                              |
+# --------------------------------------------------------------
+# |  <player>          |  tora0409                             |
+# |  <uuid>            |  player's UUID                        |
+# |  <displayname>     |  tora0409                             |
+# |  <ip>              |  127.0.0.1                            |
+# --------------------------------------------------------------
+debug: false
+commands:
+- 'alert &6<player> &7was kicked for reason : Alt Account detected'

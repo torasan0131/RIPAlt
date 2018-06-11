@@ -1,0 +1,22 @@
+# ##############################################################
+#                    RIPalt (By tora0409)                      #
+# ##############################################################
+#          
+# debug : Debug mode display messages on console
+#           
+# bungeecord : Do you use a Bungeecord
+#           
+# commands : Executes commands by Bukkit console
+# --------------------------------------------------------------
+# | Replace variable   |  Example                              |
+# --------------------------------------------------------------
+# |  <player>          |  tora0409                             |
+# |  <uuid>            |  player's UUID                        |
+# |  <displayname>     |  tora0409                             |
+# |  <ip>              |  127.0.0.1                            |
+# --------------------------------------------------------------
+debug: false
+bungeecord: false
+commands:
+- kick <player> §cAlt Account detected
+- 'say §6<player> §7was §7kicked §7for §7reason §7: §cAlt §cAccount §cdetected'

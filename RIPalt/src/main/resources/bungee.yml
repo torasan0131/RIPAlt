@@ -1,0 +1,4 @@
+name: RIPalt
+main : net.disaapse.ripalt.bungee.BungeeRIPalt
+version: 1
+author: tora0409
